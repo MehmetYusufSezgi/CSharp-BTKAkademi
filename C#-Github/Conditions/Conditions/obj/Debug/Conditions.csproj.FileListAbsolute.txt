@@ -1,0 +1,8 @@
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\bin\Debug\Conditions.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\bin\Debug\Conditions.pdb
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\obj\Debug\Conditions.csproj.AssemblyReference.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\obj\Debug\Conditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\obj\Debug\Conditions.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Conditions\Conditions\obj\Debug\Conditions.pdb
