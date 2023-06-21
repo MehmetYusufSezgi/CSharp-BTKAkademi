@@ -1,0 +1,11 @@
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.pdb
