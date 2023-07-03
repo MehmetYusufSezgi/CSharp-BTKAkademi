@@ -1,0 +1,16 @@
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\LINQ-EntityFrameworkDemo.exe.config
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\LINQ-EntityFrameworkDemo.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\LINQ-EntityFrameworkDemo.pdb
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ_EntityFrameworkDemo.Form1.resources
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ_EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\LINQ-EntityFrameworkDemo\LINQ-EntityFrameworkDemo\obj\Debug\LINQ-EntityFrameworkDemo.pdb
