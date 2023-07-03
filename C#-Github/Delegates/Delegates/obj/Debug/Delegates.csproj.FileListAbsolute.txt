@@ -1,0 +1,8 @@
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\msezg\OneDrive\Masaüstü\Engin Demiroğ C#\Delegates\Delegates\obj\Debug\Delegates.pdb
